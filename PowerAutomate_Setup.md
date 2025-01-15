@@ -11,11 +11,18 @@ This guide will walk you through setting up a Power Automate flow that allows yo
 ## Flow Setup Steps
 
 ### 1. Create New Flow
+   ![image](https://github.com/user-attachments/assets/eb130da4-008e-47f7-b1dd-f2acf6dfab76)
 
 1. Log in to Power Automate (https://make.powerautomate.com)
 2. Click "New flow"
 3. Select "Instant cloud flow"
-4. Choose "When an HTTP request is received" as the trigger
+4. Name it what you want for example "TodoQuickAdd"
+5. Choose "When an HTTP request is received" as the trigger
+
+![image](https://github.com/user-attachments/assets/17d03ae8-5f80-4e77-aeea-03163198a971)
+
+
+
 
 ### 2. Configure HTTP Trigger
 
